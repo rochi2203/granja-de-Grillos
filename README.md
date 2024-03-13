@@ -1,2 +1,2 @@
 # granja-de-Grillos
-Quiero automatizar una graja incubadora de grillos para consumo animal 
+Quiero automatizar una granja incubadora de grillos para consumo animal 
